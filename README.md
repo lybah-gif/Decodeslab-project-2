@@ -93,5 +93,5 @@ Tested with Postman. Screenshots available in Screenshots/ folder.
 Laiba Zahid
 Batch 2026 | DecodeLabs Industrial Training Program
 
-📅 Date
+# Date
 June 17, 2026
